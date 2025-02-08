@@ -2,7 +2,7 @@ public class Main
  {
    public static void main (String[]args)
    {
-     int num = 12021, reverse = 0, rem, temp;
+     int num = 1507, reverse = 0, rem, temp;
        temp = num;
      while (temp != 0)
        {
